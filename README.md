@@ -15,3 +15,11 @@ spring data jpa
 spring web
 
 spring boot devtools
+
+
+FRONT-END
+Create app: npx create-react-app front-end
+
+Run app: npm start
+
+
